@@ -16,9 +16,11 @@ Siging up with email address is preferred.
 
 #### 1-2. On task bar >> More >> Settings >> Account Type & Tool, select switch to business account
 This is important as Instagram allows only business account to be operated with the same Meta Business-type App.
+
 ![](toIGBusinessAccount.png)
 
 Then select **Business** and click **Next Step** 
+
 ![alt text](IGaccountType.png)
 
 
@@ -30,6 +32,7 @@ Then select **Business** and click **Next Step**
 ![](MetabizSuite.png)
 
 Then click **Login to Instagram**:
+
 ![](linkToIG.png)
 
 Then click **Continue** to allow acess to to Instagram message
@@ -37,7 +40,9 @@ Then click **Continue** to allow acess to to Instagram message
 ![alt text](allowMsg.png)
 
 Then click **Continue**:
+
 ![alt text](AddToAsset.png)
 
 #### Congrats, now you have linked Instagram Business Account of My Pseudo Café with Meta Fanpage
+
 ![alt text](success.png)
